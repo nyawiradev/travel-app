@@ -13,6 +13,6 @@ A Simple travel-app using HTML, CSS, JavaScript and React.
 
 ![image]
 
-### Support or Contact
+### Support or Contact 
 
 Having trouble with Pages contact jnyawira759@gmail.com
