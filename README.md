@@ -8,10 +8,12 @@ A Simple travel-app using HTML, CSS, JavaScript and React.
 
 
 ## Demo site
+https://glotravel.netlify.app/
 
 
 
-![image]
+![imag![travel-app](https://user-images.githubusercontent.com/106586594/183315608-29ae4b30-b994-4ef2-a37c-1e42579442a8.png)
+e]
 
 ### Support or Contact 
 
